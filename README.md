@@ -11,3 +11,6 @@ penggunaan aplikasi
 1. lakukan composer update terlebihh dulu
 2. import database
 3. username dan password : superadmin / superadmin
+
+
+Info lengkap : 081311212216 (Arief)
